@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T13:46:31 IST" name="Suite" finished-at="2022-10-21T13:47:04 IST" duration-ms="33229">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T13:46:31 IST" name="Test" finished-at="2022-10-21T13:47:04 IST" duration-ms="33229">
+      <class name="Scenario3">
+        <test-method is-config="true" signature="f()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:46:39 IST" name="f" finished-at="2022-10-21T13:46:45 IST" duration-ms="5513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="fieldsTest()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:46:58 IST" name="fieldsTest" finished-at="2022-10-21T13:46:58 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fieldsTest -->
+        <test-method is-config="true" signature="CheckboxRadioSelect()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:46:58 IST" name="CheckboxRadioSelect" finished-at="2022-10-21T13:46:58 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckboxRadioSelect -->
+        <test-method is-config="true" signature="ConfirmationAlertPrompt()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:46:58 IST" name="ConfirmationAlertPrompt" finished-at="2022-10-21T13:46:59 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmationAlertPrompt -->
+        <test-method is-config="true" signature="FromAndTotest()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:46:59 IST" name="FromAndTotest" finished-at="2022-10-21T13:46:59 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FromAndTotest -->
+        <test-method is-config="true" signature="fileUploadAndSelectdropdown()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:46:59 IST" name="fileUploadAndSelectdropdown" finished-at="2022-10-21T13:46:59 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUploadAndSelectdropdown -->
+        <test-method is-config="true" signature="openWindowTest()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:46:59 IST" name="openWindowTest" finished-at="2022-10-21T13:47:03 IST" duration-ms="4149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWindowTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Scenario3@7f0eb4b4]" started-at="2022-10-21T13:47:03 IST" name="afterClass" finished-at="2022-10-21T13:47:04 IST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Scenario3 -->
+      <class name="Scenario2">
+        <test-method is-config="true" signature="f()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:33 IST" name="f" finished-at="2022-10-21T13:46:39 IST" duration-ms="5548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="dragAndDrop()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:45 IST" name="dragAndDrop" finished-at="2022-10-21T13:46:46 IST" duration-ms="1518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method is-config="true" signature="ControlGoup()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:46 IST" name="ControlGoup" finished-at="2022-10-21T13:46:48 IST" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ControlGoup -->
+        <test-method is-config="true" signature="buttondemo()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:48 IST" name="buttondemo" description="Button Example" finished-at="2022-10-21T13:46:50 IST" duration-ms="2105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttondemo -->
+        <test-method is-config="true" signature="checkBoxradio()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:50 IST" name="checkBoxradio" finished-at="2022-10-21T13:46:52 IST" duration-ms="1800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxradio -->
+        <test-method is-config="true" signature="datePicker()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:52 IST" name="datePicker" finished-at="2022-10-21T13:46:55 IST" duration-ms="3395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePicker -->
+        <test-method is-config="true" signature="dialog()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:55 IST" name="dialog" finished-at="2022-10-21T13:46:56 IST" duration-ms="1424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dialog -->
+        <test-method is-config="true" signature="tabs()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:56 IST" name="tabs" finished-at="2022-10-21T13:46:57 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabs -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Scenario2@3febb011]" started-at="2022-10-21T13:46:57 IST" name="afterClass" finished-at="2022-10-21T13:46:58 IST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Scenario2 -->
+      <class name="Scenario1">
+        <test-method is-config="true" signature="f()[pri:0, instance:Scenario1@1189dd52]" started-at="2022-10-21T13:46:31 IST" name="f" finished-at="2022-10-21T13:46:33 IST" duration-ms="2768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="placeOrder()[pri:0, instance:Scenario1@1189dd52]" started-at="2022-10-21T13:46:45 IST" name="placeOrder" finished-at="2022-10-21T13:46:45 IST" duration-ms="22" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="block_top_menu"]/ul/li[1]/a"}
+  (Session info: MicrosoftEdge=106.0.1370.47)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'FEMINAPA', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c743ccf9b9c7b91fb43797309a3474f5, findElement {using=xpath, value=//*[@id="block_top_menu"]/ul/li[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 106.0.1370.47, ms:edgeOptions: {debuggerAddress: localhost:62396}, msedge: {msedgedriverVersion: 105.0.1343.53 (3a47f00402d5..., userDataDir: C:\Users\BBDNET~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62396/devtoo..., se:cdpVersion: 106.0.1370.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c743ccf9b9c7b91fb43797309a3474f5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="block_top_menu"]/ul/li[1]/a"}
+  (Session info: MicrosoftEdge=106.0.1370.47)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'FEMINAPA', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c743ccf9b9c7b91fb43797309a3474f5, findElement {using=xpath, value=//*[@id="block_top_menu"]/ul/li[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 106.0.1370.47, ms:edgeOptions: {debuggerAddress: localhost:62396}, msedge: {msedgedriverVersion: 105.0.1343.53 (3a47f00402d5..., userDataDir: C:\Users\BBDNET~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62396/devtoo..., se:cdpVersion: 106.0.1370.47, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c743ccf9b9c7b91fb43797309a3474f5
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at Scenario1.placeOrder(Scenario1.java:33)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+      </class> <!-- Scenario1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
